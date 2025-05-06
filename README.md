@@ -45,6 +45,14 @@ The model was trained on a custom dataset provided by Roboflow.
 
 👉 [View Dataset on Roboflow](https://universe.roboflow.com/ai-project-i3wje/waste-detection-vqkjo/model/3)
 
+## Team Members
+
+- **Castro R S Jeev**
+- **Abin Raj**
+- **Sharfin**
+- **Paul Raj S P**
+
+
 ## Installation Guide
 
 To set up the project on your local machine:
